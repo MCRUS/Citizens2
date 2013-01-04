@@ -4,3 +4,6 @@
 .project
 Citizens.jar
 *.lnk
+.idea
+*.iml
+.settings
